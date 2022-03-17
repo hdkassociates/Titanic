@@ -1,0 +1,147 @@
+.pagewrapper{
+	overflow: hidden;
+	min-height: 95.5vh;
+}
+video#animation{
+	position:absolute;
+	top:0;
+	left:0;
+}
+@media(max-width:2560px){
+	video#animation{
+		min-width:2560px;
+		position:absolute;
+		left:0;
+		margin-left:0px;
+	}
+}
+
+@media(max-width:2400px){
+	video#animation{
+		min-width:2400px;
+		position:absolute;
+		left:0;
+		margin-left:0px;
+	}
+}
+@media(max-width:2250px){
+	video#animation{
+		min-width:2250px;
+		position:absolute;
+		left:0;
+		margin-left:0px;
+	}
+}
+@media(max-width:2100px){
+	video#animation{
+		min-width:2100px;
+		position:absolute;
+		left:0;
+		margin-left:0px;
+	}
+}
+@media(max-width:1920px){
+	video#animation{
+		min-width:1920px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+@media(max-width:1700px){
+	video#animation{
+		min-width:1800px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:1600px){
+	video#animation{
+		min-width:1800px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+@media(max-width:1500px){
+	video#animation{
+		min-width:1760px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:1400px){
+	video#animation{
+		min-width:1670px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:1250px){
+	video#animation{
+		min-width:1600px;
+		position:absolute;
+		left:50%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:1120px){
+	video#animation{
+		min-width:1447px;
+		position:absolute;
+		left:62%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:1050px){
+	video#animation{
+		min-width:1270px;
+		position:absolute;
+		left:70%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:975px){
+	video#animation{
+		min-width:1250px;
+		position:absolute;
+		left:76%;
+		margin-left:-960px;
+	}
+}
+
+@media(max-width:860px){
+	video#animation{
+		min-width:1100px;
+		position:absolute;
+		left:85%;
+		margin-left:-960px;
+	}
+}
+@media(max-width:768px){
+	#header{
+		width:173%;
+		position:relative;
+		left:auto;
+		right:auto;
+		margin-left:-36.5%;
+		margin-right:-36.5%;
+		margin-bottom:-100%;
+	}
+	
+	video#animation{
+		min-width:0;
+		max-width:100%;
+		left:0;
+		margin-left:0;
+	}
+}
