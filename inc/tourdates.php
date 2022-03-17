@@ -30,7 +30,7 @@
 				<span class="book"><a href="https://www.mayflower.org.uk/whats-on/titanic-the-musical-2023/" target="_blank">Book now</a></span>
 				<span class="tt2"></span></li>',
 
-				'20230422'	=>	'<li><span class="date">Tue 18 – <br>Sat 22 Apr</span>
+				'20230422'	=>	'<li><span class="date">Mon 17 – <br>Sat 22 Apr</span>
 				<span class="venue">BIRMINGHAM Hippodrome</span>
 				<span class="phone">ON SALE SOON</span>
 				<span class="tt1"></span>
@@ -44,7 +44,7 @@
 				<span class="book"></span>
 				<span class="tt2"></span></li>',
 
-				'20230513'	=>	'<li><span class="date">Tue 9 – <br>Sat 13 May</span>
+				'20230513'	=>	'<li><span class="date">Mon 8 – <br>Sat 13 May</span>
 				<span class="venue">CARDIFF New Theatre</span>
 				<span class="phone">ON SALE SOON</span>
 				<span class="tt1"></span>
@@ -62,24 +62,24 @@
 				<span class="venue">HIGH WYCOMBE Wycombe Swan</span>
 				<span class="phone">0343 310 0060 </span>
 				<span class="tt1"></span>
-				<span class="book"><a href="https://wycombeswan.co.uk/Online/default.asp" target="_blank">Book now</a></span>
+				<span class="book"><a href="https://wycombeswan.co.uk/Online/tickets-Titanic-Musical-wycombe-2023" target="_blank">Book now</a></span>
 				<span class="tt2"></span></li>',
 
-				'20230603'	=>	'<li><span class="date">Tue 30 May – <br>Sat 3 Jun</span>
+				'20230603'	=>	'<li><span class="date">Mon 29 May – <br>Sat 3 Jun</span>
 				<span class="venue">HULL New Theatre</span>
 				<span class="phone">ON SALE SOON </span>
 				<span class="tt1"></span>
 				<span class="book"></span>
 				<span class="tt2"></span></li>',
 
-				'20230617'	=>	'<li><span class="date">Tue 13 – <br>Sat 17 Jun</span>
+				'20230617'	=>	'<li><span class="date">Mon 12 – <br>Sat 17 Jun</span>
 				<span class="venue">CHELTENHAM Everyman</span>
 				<span class="phone">ON SALE SOON</span>
 				<span class="tt1"></span>
 				<span class="book"></span>
 				<span class="tt2"></span></li>',
 
-				'20230624'	=>	'<li><span class="date">Tue 20 – <br>Sat 24 Jun</span>
+				'20230624'	=>	'<li><span class="date">Mon 19 – <br>Sat 24 Jun</span>
 				<span class="venue">EDINBURGH Festival Theatre</span>
 				<span class="phone">ON SALE SOON</span>
 				<span class="tt1"></span>
@@ -97,10 +97,10 @@
 				<span class="venue">SALFORD The Lowry</span>
 				<span class="phone">0343 208 6000</span>
 				<span class="tt1"></span>
-				<span class="book"></span>
+				<span class="book"><a href="https://thelowry.com/whats-on/titanic/" target="_blank">Book now</a></span>
 				<span class="tt2"></span></li>',
 
-				'202300822'	=>	'<li><span class="date">Tue 18 – <br>Sat 22 Jul</span>
+				'202300822'	=>	'<li><span class="date">Mon 17 – <br>Sat 22 Jul</span>
 				<span class="venue">SHEFFIELD Lyceum</span>
 				<span class="phone">ON SALE SOON</span>
 				<span class="tt1"></span>
